@@ -1,0 +1,19 @@
+{
+  "name": "react-antd-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "antd": "^4.0.0",
+    "react": "^16.0.0"
+  },
+  "dependencies": {
+    "antd": "~4.9.4",
+    "react": "~17.0.1"
+  }
+}
